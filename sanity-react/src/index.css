@@ -46,6 +46,7 @@
 }
 
 .intro.para {
+  margin-top: 120px;;
   word-spacing: 0.8px;
   font-size: 25px;
 }
@@ -109,4 +110,45 @@
 
 .posttitle:hover {
   color: #2e9cca;
+}
+
+/* One Post JS */
+
+.arrow {
+  margin: 25px;
+  color: fff;
+}
+
+.blogImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: auto;
+  height: auto;
+}
+
+.blogContent {
+  color: #fff;
+  margin: 70px 230px 120px 230px;
+  text-indent: 30px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+/* footer */
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 10px 30px 10px;
 }
