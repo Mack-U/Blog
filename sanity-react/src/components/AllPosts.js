@@ -40,13 +40,13 @@ export default function AllPosts() {
       <div class ="post">
         {allPostsData &&
           allPostsData.map((post, index) => (
-            <Link to={"/" + post.slug.current} key={post.slug.current}>
+            <Link to={"/" + post.slug.current} key={post.slug.current} class="au">
               <span key={index}>
                 <img class="picture" src={post.mainImage.asset.url} alt="" />
                 <span>
                   <h2 class = "posttitle">{post.title}</h2>
                 </span>
-              </span>
+                </span>
             </Link>
           ))}
           </div>
