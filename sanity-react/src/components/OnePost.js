@@ -42,7 +42,7 @@ export default function OnePost() {
   return (
     <div class="body">
       <div class = "container">
-        <a href ="localhost:3000">
+        <a href ="https://self-developing.vercel.app/">
       <svg xmlns="http://www.w3.org/2000/svg" class="arrow" width="44" height="44" viewBox="0 0 24 24"><path d="M0 12l9-8v6h15v4h-15v6z"/></svg>
        </a>
         {/* <h2 class="title">{postData.title}</h2>
