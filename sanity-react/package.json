@@ -14,9 +14,9 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "sanity start",
-    "build": "sanity build public -y",
-    "test": "sanity check",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   
