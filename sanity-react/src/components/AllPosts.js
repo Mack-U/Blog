@@ -29,6 +29,9 @@ export default function AllPosts() {
 
   return (
     <div class="body">
+      <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"></meta>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"></meta>
+      <meta name="HandheldFriendly" content="true"></meta>
       <div class = "container1">
       <div class="bgimg" alt="/s">
       <h2 class="title">Self-Developing</h2>
