@@ -88,6 +88,10 @@
   width: 15vw;
 }
 
+.logo {
+  fill: #fff;
+}
+
 .posttitle {
   font-family: 'Epilogue';
   font-size: 30px;
@@ -153,6 +157,7 @@ footer {
   margin: 10px 10px 30px 10px;
 }
 
+
 @media (max-width: 600px) {
   .title {
     font-size: 37px;
@@ -181,6 +186,12 @@ footer {
       font-size: 20px;
       letter-spacing: 1.7px;
       line-height: 30px;
+    }
+
+    .blogImage {
+      width: 80vw;
+      height: 30vh;
+      margin: 15px;
     }
 
 }
