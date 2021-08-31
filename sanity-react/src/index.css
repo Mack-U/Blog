@@ -197,13 +197,13 @@ footer {
     }
 
     .container1 {
-      height: 80%;
+      height: 110%;
       width: 100%;
     }
 
     .bgimg {
-      height: 700vh;
-      width: 70vw;
+      height: 100vh;
+      width: 100vw;
     }
 
 }
