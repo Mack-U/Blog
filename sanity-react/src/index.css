@@ -191,7 +191,12 @@ footer {
     .blogImage {
       width: 80vw;
       height: 30vh;
-      margin: 15px;
+      margin: auto;
+    }
+
+    .bgimg {
+      height: 100vh;
+      width: 50vw;
     }
 
 }
