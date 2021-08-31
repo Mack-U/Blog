@@ -36,7 +36,7 @@ export default function AllPosts() {
       <div class="bgimg" alt="/s">
       <h2 class="title">Self-Developing</h2>
       <h3 class="intro author">Personal Blog by Donnie Underwood</h3>
-      <h3 class="intro para">Welcome to my blog! This is a blog that targets to help out beginners who want to be front-end developers. I hope that I will be able to take small concepts and break them down in a way that anybody can understand it. We will be diving into HTML, CSS, and JavaScript concepts. There will also be articles in which we dive into the psychology of front-end development and how you can use it to be a more effective developer.</h3>
+      <h3 class="intro para">Welcome! This is a blog that targets to help out beginners who want to be front-end developers. I hope that I will be able to take small concepts and break them down in a way that anybody can understand it. We will be diving into HTML, CSS, and JavaScript concepts. There will also be articles in which we dive into the psychology of front-end development and how you can use it to be a more effective developer.</h3>
     </div>
     <div class="container2">
       <h2 class="title">Recent Post</h2>

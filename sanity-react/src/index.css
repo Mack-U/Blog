@@ -175,6 +175,7 @@ footer {
 
     .intro.para{
       font-size: 20px;
+      width: 70vw;
     }
 
     .picture {
@@ -194,9 +195,14 @@ footer {
       margin: auto;
     }
 
+    .container1 {
+      height: 80%;
+      width: 100%;
+    }
+
     .bgimg {
       height: 100vh;
-      width: 50vw;
+      width: 100vw;
     }
 
 }
